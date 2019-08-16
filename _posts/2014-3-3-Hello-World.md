@@ -1,10 +1,13 @@
----
-layout: post
-title: You're up and running!
----
+Date: 10 August 2019
+Categories: homebrew, qbrew
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+#Old qbrew files
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Welcome back to the [quantifier consortium] homebrew blog. Long enough is long enough.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+To start, here's the various qbrew files that are still available on the web, thanks to the excellent [Internet Archives
+Site](https://archive.org):
+
+[https://web.archive.org/web/20110428142359/http://quantifier.org/qbrew/](https://web.archive.org/web/20110428142359/http://quantifier.org/qbrew/)
+
+We're back, baby!
