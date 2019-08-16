@@ -1,6 +1,3 @@
-Date: 10 August 2019
-Categories: homebrew, qbrew
-
 #Old qbrew files
 
 Welcome back to the [quantifier consortium] homebrew blog. Long enough is long enough.
