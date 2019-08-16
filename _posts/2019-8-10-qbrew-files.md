@@ -1,3 +1,9 @@
+---
+layout: post
+title: old qbrew files
+tags: qbrew
+---
+
 #Old qbrew files
 
 Welcome back to the [quantifier consortium] homebrew blog. Long enough is long enough.
